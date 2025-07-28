@@ -1,0 +1,2921 @@
+[
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "ALBUQUERQUE",
+    "iataCode": "ABQ",
+    "geoCode": {
+      "latitude": 35.04195,
+      "longitude": -106.6069
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "NM",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "KING SALMON",
+    "iataCode": "AKN",
+    "geoCode": {
+      "latitude": 58.67667,
+      "longitude": -156.6492
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "WALLA WALLA",
+    "iataCode": "ALW",
+    "geoCode": {
+      "latitude": 46.09473,
+      "longitude": -118.2889
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "AMSTERDAM",
+    "iataCode": "AMS",
+    "geoCode": {
+      "latitude": 52.31028,
+      "longitude": 4.76028
+    },
+    "address": {
+      "countryName": "NETHERLANDS",
+      "countryCode": "NL",
+      "regionCode": "EUROP"
+    },
+    "timeZone": {
+      "offSet": "+02:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "ANCHORAGE",
+    "iataCode": "ANC",
+    "geoCode": {
+      "latitude": 61.17417,
+      "longitude": -149.9961
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "ASTORIA",
+    "iataCode": "AST",
+    "geoCode": {
+      "latitude": 46.17,
+      "longitude": -123.9
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "ATLANTA",
+    "iataCode": "ATL",
+    "geoCode": {
+      "latitude": 33.64112,
+      "longitude": -84.42277
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "GA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "AUSTIN",
+    "iataCode": "AUS",
+    "geoCode": {
+      "latitude": 30.19445,
+      "longitude": -97.67
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "TX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BILLINGS",
+    "iataCode": "BIL",
+    "geoCode": {
+      "latitude": 45.80778,
+      "longitude": -108.5428
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MT",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BEIJING",
+    "iataCode": "BJS",
+    "geoCode": {
+      "latitude": 39.9075,
+      "longitude": 116.3972
+    },
+    "address": {
+      "countryName": "CHINA",
+      "countryCode": "CN",
+      "regionCode": "ASIA"
+    },
+    "timeZone": {
+      "offSet": "+08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BAKER CITY",
+    "iataCode": "BKE",
+    "geoCode": {
+      "latitude": 44.83778,
+      "longitude": -117.8097
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BELLINGHAM",
+    "iataCode": "BLI",
+    "geoCode": {
+      "latitude": 48.79278,
+      "longitude": -122.5375
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BENGALURU",
+    "iataCode": "BLR",
+    "geoCode": {
+      "latitude": 13.20084,
+      "longitude": 77.70889
+    },
+    "address": {
+      "countryName": "INDIA",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "regionCode": "ASIA"
+    },
+    "timeZone": {
+      "offSet": "+05:30",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "NASHVILLE",
+    "iataCode": "BNA",
+    "geoCode": {
+      "latitude": 36.11945,
+      "longitude": -86.68416
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "TN",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BURNS",
+    "iataCode": "BNO",
+    "geoCode": {
+      "latitude": 43.58001,
+      "longitude": -119.0
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BOISE",
+    "iataCode": "BOI",
+    "geoCode": {
+      "latitude": 43.56695,
+      "longitude": -116.2233
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BOSTON",
+    "iataCode": "BOS",
+    "geoCode": {
+      "latitude": 42.36528,
+      "longitude": -71.01777
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BURBANK",
+    "iataCode": "BUR",
+    "geoCode": {
+      "latitude": 34.20056,
+      "longitude": -118.3592
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BELIZE CITY",
+    "iataCode": "BZE",
+    "geoCode": {
+      "latitude": 17.53917,
+      "longitude": -88.30833
+    },
+    "address": {
+      "countryName": "BELIZE",
+      "countryCode": "BZ",
+      "regionCode": "CAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BOZEMAN",
+    "iataCode": "BZN",
+    "geoCode": {
+      "latitude": 45.7775,
+      "longitude": -111.1531
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MT",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "CHICAGO",
+    "iataCode": "CHI",
+    "geoCode": {
+      "latitude": 41.85,
+      "longitude": -87.65
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "IL",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "CHARLESTON",
+    "iataCode": "CHS",
+    "geoCode": {
+      "latitude": 32.89862,
+      "longitude": -80.04027
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "SC",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PORT ANGELES",
+    "iataCode": "CLM",
+    "geoCode": {
+      "latitude": 48.12028,
+      "longitude": -123.4997
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "CHARLOTTE",
+    "iataCode": "CLT",
+    "geoCode": {
+      "latitude": 35.2207,
+      "longitude": -80.94413
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "NC",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "COLUMBUS",
+    "iataCode": "CMH",
+    "geoCode": {
+      "latitude": 39.99806,
+      "longitude": -82.88361
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OH",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "COEUR D'ALENE",
+    "iataCode": "COE",
+    "geoCode": {
+      "latitude": 47.77417,
+      "longitude": -116.8194
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "CANCUN",
+    "iataCode": "CUN",
+    "geoCode": {
+      "latitude": 21.03667,
+      "longitude": -86.87694
+    },
+    "address": {
+      "countryName": "MEXICO",
+      "countryCode": "MX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "CINCINNATI",
+    "iataCode": "CVG",
+    "geoCode": {
+      "latitude": 39.04889,
+      "longitude": -84.66777
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OH",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "CORVALLIS/ALBANY",
+    "iataCode": "CVO",
+    "geoCode": {
+      "latitude": 44.49723,
+      "longitude": -123.2897
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "DENVER",
+    "iataCode": "DEN",
+    "geoCode": {
+      "latitude": 39.86167,
+      "longitude": -104.6731
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CO",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "DALLAS",
+    "iataCode": "DFW",
+    "geoCode": {
+      "latitude": 32.89695,
+      "longitude": -97.03805
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "TX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "DOHA",
+    "iataCode": "DOH",
+    "geoCode": {
+      "latitude": 25.26486,
+      "longitude": 51.56356
+    },
+    "address": {
+      "countryName": "QATAR",
+      "countryCode": "QA",
+      "regionCode": "MEAST"
+    },
+    "timeZone": {
+      "offSet": "+03:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "DETROIT",
+    "iataCode": "DTT",
+    "geoCode": {
+      "latitude": 42.33139,
+      "longitude": -83.04583
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MI",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "DUBLIN",
+    "iataCode": "DUB",
+    "geoCode": {
+      "latitude": 53.42139,
+      "longitude": -6.27
+    },
+    "address": {
+      "countryName": "IRELAND",
+      "countryCode": "IE",
+      "regionCode": "EUROP"
+    },
+    "timeZone": {
+      "offSet": "+01:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "DUBAI",
+    "iataCode": "DXB",
+    "geoCode": {
+      "latitude": 25.25278,
+      "longitude": 55.36445
+    },
+    "address": {
+      "countryName": "UNITED ARAB EMIRATES",
+      "countryCode": "AE",
+      "regionCode": "MEAST"
+    },
+    "timeZone": {
+      "offSet": "+04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "WENATCHEE",
+    "iataCode": "EAT",
+    "geoCode": {
+      "latitude": 47.4,
+      "longitude": -120.2
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "EL PASO",
+    "iataCode": "ELP",
+    "geoCode": {
+      "latitude": 31.80723,
+      "longitude": -106.3775
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "TX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "EPHRATA",
+    "iataCode": "EPH",
+    "geoCode": {
+      "latitude": 47.3,
+      "longitude": -119.5
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "EASTSOUND",
+    "iataCode": "ESD",
+    "geoCode": {
+      "latitude": 48.70806,
+      "longitude": -122.9108
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "EUGENE",
+    "iataCode": "EUG",
+    "geoCode": {
+      "latitude": 44.12445,
+      "longitude": -123.2119
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "FAIRBANKS",
+    "iataCode": "FAI",
+    "geoCode": {
+      "latitude": 64.81362,
+      "longitude": -147.8597
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "FRESNO",
+    "iataCode": "FAT",
+    "geoCode": {
+      "latitude": 36.77612,
+      "longitude": -119.7192
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "KALISPELL",
+    "iataCode": "FCA",
+    "geoCode": {
+      "latitude": 48.31056,
+      "longitude": -114.2561
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MT",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "FT LAUDERDALE",
+    "iataCode": "FLL",
+    "geoCode": {
+      "latitude": 26.07147,
+      "longitude": -80.144
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "FL",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "FORT MYERS",
+    "iataCode": "FMY",
+    "geoCode": {
+      "latitude": 26.58667,
+      "longitude": -81.86277
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "FL",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "FRANKFURT",
+    "iataCode": "FRA",
+    "geoCode": {
+      "latitude": 50.04056,
+      "longitude": 8.55612
+    },
+    "address": {
+      "countryName": "GERMANY",
+      "countryCode": "DE",
+      "regionCode": "EUROP"
+    },
+    "timeZone": {
+      "offSet": "+02:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "FRIDAY HARBOR",
+    "iataCode": "FRD",
+    "geoCode": {
+      "latitude": 48.52612,
+      "longitude": -123.0253
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "GUADALAJARA",
+    "iataCode": "GDL",
+    "geoCode": {
+      "latitude": 20.52167,
+      "longitude": -103.3111
+    },
+    "address": {
+      "countryName": "MEXICO",
+      "countryCode": "MX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SPOKANE",
+    "iataCode": "GEG",
+    "geoCode": {
+      "latitude": 47.62,
+      "longitude": -117.5
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "GREAT FALLS",
+    "iataCode": "GTF",
+    "geoCode": {
+      "latitude": 47.48195,
+      "longitude": -111.3706
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MT",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "HAYDEN",
+    "iataCode": "HDN",
+    "geoCode": {
+      "latitude": 40.48001,
+      "longitude": -107.2
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CO",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "HELENA",
+    "iataCode": "HLN",
+    "geoCode": {
+      "latitude": 46.60695,
+      "longitude": -111.9828
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MT",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "HONOLULU",
+    "iataCode": "HNL",
+    "geoCode": {
+      "latitude": 21.32445,
+      "longitude": -157.925
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "HI",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-10:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "HOUSTON",
+    "iataCode": "HOU",
+    "geoCode": {
+      "latitude": 29.64556,
+      "longitude": -95.27888
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "TX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "HOQUIAM ABERDEEN",
+    "iataCode": "HQM",
+    "geoCode": {
+      "latitude": 46.97112,
+      "longitude": -123.9367
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "WICHITA",
+    "iataCode": "ICT",
+    "geoCode": {
+      "latitude": 37.65,
+      "longitude": -97.43305
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "KS",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "IDAHO FALLS",
+    "iataCode": "IDA",
+    "geoCode": {
+      "latitude": 43.51445,
+      "longitude": -112.0708
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "INDIANAPOLIS",
+    "iataCode": "IND",
+    "geoCode": {
+      "latitude": 39.71723,
+      "longitude": -86.29444
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "IN",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "JACKSON",
+    "iataCode": "JAC",
+    "geoCode": {
+      "latitude": 43.60723,
+      "longitude": -110.7378
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "JUNEAU",
+    "iataCode": "JNU",
+    "geoCode": {
+      "latitude": 58.35501,
+      "longitude": -134.5764
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "KELSO",
+    "iataCode": "KLS",
+    "geoCode": {
+      "latitude": 46.11806,
+      "longitude": -122.8983
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "KONA",
+    "iataCode": "KOA",
+    "geoCode": {
+      "latitude": 19.73862,
+      "longitude": -156.0456
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "HI",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-10:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "KETCHIKAN",
+    "iataCode": "KTN",
+    "geoCode": {
+      "latitude": 55.35556,
+      "longitude": -131.7139
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "LAS VEGAS",
+    "iataCode": "LAS",
+    "geoCode": {
+      "latitude": 36.08001,
+      "longitude": -115.1522
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "NV",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "LOS ANGELES",
+    "iataCode": "LAX",
+    "geoCode": {
+      "latitude": 33.9425,
+      "longitude": -118.4081
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "LA GRANDE",
+    "iataCode": "LGD",
+    "geoCode": {
+      "latitude": 45.28917,
+      "longitude": -118.0061
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "LIHUE",
+    "iataCode": "LIH",
+    "geoCode": {
+      "latitude": 21.97584,
+      "longitude": -159.3386
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "HI",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-10:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "KLAMATH FALLS",
+    "iataCode": "LMT",
+    "geoCode": {
+      "latitude": 42.15612,
+      "longitude": -121.7333
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "LONDON",
+    "iataCode": "LON",
+    "geoCode": {
+      "latitude": 51.5,
+      "longitude": -0.16666
+    },
+    "address": {
+      "countryName": "UNITED KINGDOM",
+      "countryCode": "GB",
+      "regionCode": "EUROP"
+    },
+    "timeZone": {
+      "offSet": "+01:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "LEWISTON",
+    "iataCode": "LWS",
+    "geoCode": {
+      "latitude": 46.37445,
+      "longitude": -117.0153
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MEXICO CITY",
+    "iataCode": "MEX",
+    "geoCode": {
+      "latitude": 19.43639,
+      "longitude": -99.07222
+    },
+    "address": {
+      "countryName": "MEXICO",
+      "countryCode": "MX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MEDFORD",
+    "iataCode": "MFR",
+    "geoCode": {
+      "latitude": 42.37417,
+      "longitude": -122.8736
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MIAMI",
+    "iataCode": "MIA",
+    "geoCode": {
+      "latitude": 25.79334,
+      "longitude": -80.28999
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "FL",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "KANSAS CITY",
+    "iataCode": "MKC",
+    "geoCode": {
+      "latitude": 39.12112,
+      "longitude": -94.59166
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MO",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MILWAUKEE",
+    "iataCode": "MKE",
+    "geoCode": {
+      "latitude": 42.94723,
+      "longitude": -87.89666
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WI",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MORELIA",
+    "iataCode": "MLM",
+    "geoCode": {
+      "latitude": 19.85,
+      "longitude": -101.0256
+    },
+    "address": {
+      "countryName": "MEXICO",
+      "countryCode": "MX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MONTEREY CARMEL",
+    "iataCode": "MRY",
+    "geoCode": {
+      "latitude": 36.58695,
+      "longitude": -121.8431
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MADISON",
+    "iataCode": "MSN",
+    "geoCode": {
+      "latitude": 43.13973,
+      "longitude": -89.33749
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WI",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MISSOULA",
+    "iataCode": "MSO",
+    "geoCode": {
+      "latitude": 46.91639,
+      "longitude": -114.0906
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MT",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MINNEAPOLIS/ST PAUL",
+    "iataCode": "MSP",
+    "geoCode": {
+      "latitude": 44.88195,
+      "longitude": -93.20835
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MN",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "NEW ORLEANS",
+    "iataCode": "MSY",
+    "geoCode": {
+      "latitude": 29.99334,
+      "longitude": -90.25805
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "LA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MOSES LAKE",
+    "iataCode": "MWH",
+    "geoCode": {
+      "latitude": 47.20778,
+      "longitude": -119.32
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "MCCALL",
+    "iataCode": "MYL",
+    "geoCode": {
+      "latitude": 44.89445,
+      "longitude": -116.1003
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "NEW YORK",
+    "iataCode": "NYC",
+    "geoCode": {
+      "latitude": 40.71417,
+      "longitude": -74.00583
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "NY",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "OAKLAND",
+    "iataCode": "OAK",
+    "geoCode": {
+      "latitude": 37.73084,
+      "longitude": -122.2194
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "KAHULUI",
+    "iataCode": "OGG",
+    "geoCode": {
+      "latitude": 20.89862,
+      "longitude": -156.4306
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "HI",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-10:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "OKLAHOMA CITY",
+    "iataCode": "OKC",
+    "geoCode": {
+      "latitude": 35.39306,
+      "longitude": -97.60083
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OK",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "OLYMPIA",
+    "iataCode": "OLM",
+    "geoCode": {
+      "latitude": 46.96945,
+      "longitude": -122.9025
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "OMAHA",
+    "iataCode": "OMA",
+    "geoCode": {
+      "latitude": 41.30112,
+      "longitude": -95.89861
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "NE",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "OMAK",
+    "iataCode": "OMK",
+    "geoCode": {
+      "latitude": 48.4,
+      "longitude": -119.5
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "ONTARIO",
+    "iataCode": "ONO",
+    "geoCode": {
+      "latitude": 44.02,
+      "longitude": -117.0
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "NEWPORT",
+    "iataCode": "ONP",
+    "geoCode": {
+      "latitude": 44.58001,
+      "longitude": -124.1
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "ORLANDO",
+    "iataCode": "ORL",
+    "geoCode": {
+      "latitude": 28.53,
+      "longitude": -81.35
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "FL",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "NORTH BEND",
+    "iataCode": "OTH",
+    "geoCode": {
+      "latitude": 43.41723,
+      "longitude": -124.2461
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PARIS",
+    "iataCode": "PAR",
+    "geoCode": {
+      "latitude": 48.85334,
+      "longitude": 2.34889
+    },
+    "address": {
+      "countryName": "FRANCE",
+      "countryCode": "FR",
+      "regionCode": "EUROP"
+    },
+    "timeZone": {
+      "offSet": "+02:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PENDLETON",
+    "iataCode": "PDT",
+    "geoCode": {
+      "latitude": 45.69417,
+      "longitude": -118.8417
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PORTLAND",
+    "iataCode": "PDX",
+    "geoCode": {
+      "latitude": 45.58917,
+      "longitude": -122.5936
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PHILADELPHIA",
+    "iataCode": "PHL",
+    "geoCode": {
+      "latitude": 39.87834,
+      "longitude": -75.24027
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "PA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PHOENIX",
+    "iataCode": "PHX",
+    "geoCode": {
+      "latitude": 33.43556,
+      "longitude": -111.9981
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "AZ",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PITTSBURGH",
+    "iataCode": "PIT",
+    "geoCode": {
+      "latitude": 40.49139,
+      "longitude": -80.23277
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "PA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PASCO",
+    "iataCode": "PSC",
+    "geoCode": {
+      "latitude": 46.27,
+      "longitude": -119.1
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PALM SPRINGS",
+    "iataCode": "PSP",
+    "geoCode": {
+      "latitude": 33.82973,
+      "longitude": -116.5067
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PULLMAN WA/MOSCOW ID",
+    "iataCode": "PUW",
+    "geoCode": {
+      "latitude": 46.74389,
+      "longitude": -117.1094
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "PUERTO VALLARTA",
+    "iataCode": "PVR",
+    "geoCode": {
+      "latitude": 20.68,
+      "longitude": -105.2542
+    },
+    "address": {
+      "countryName": "MEXICO",
+      "countryCode": "MX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BREMERTON",
+    "iataCode": "PWT",
+    "geoCode": {
+      "latitude": 47.49278,
+      "longitude": -122.7625
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "ROSEBURG",
+    "iataCode": "RBG",
+    "geoCode": {
+      "latitude": 43.23862,
+      "longitude": -123.3556
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "REDDING",
+    "iataCode": "RDD",
+    "geoCode": {
+      "latitude": 40.50889,
+      "longitude": -122.2944
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "REDMOND/BEND",
+    "iataCode": "RDM",
+    "geoCode": {
+      "latitude": 44.25417,
+      "longitude": -121.15
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "RALEIGH DURHAM",
+    "iataCode": "RDU",
+    "geoCode": {
+      "latitude": 35.87945,
+      "longitude": -78.78722
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "NC",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "REYKJAVIK",
+    "iataCode": "REK",
+    "geoCode": {
+      "latitude": 64.13,
+      "longitude": -21.95
+    },
+    "address": {
+      "countryName": "ICELAND",
+      "countryCode": "IS",
+      "regionCode": "EUROP"
+    },
+    "timeZone": {
+      "offSet": "+00:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "RICHLAND",
+    "iataCode": "RLD",
+    "geoCode": {
+      "latitude": 46.3,
+      "longitude": -119.3
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "RENO",
+    "iataCode": "RNO",
+    "geoCode": {
+      "latitude": 39.49862,
+      "longitude": -119.7681
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "NV",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "RENTON",
+    "iataCode": "RNT",
+    "geoCode": {
+      "latitude": 47.49278,
+      "longitude": -122.2156
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SACRAMENTO",
+    "iataCode": "SAC",
+    "geoCode": {
+      "latitude": 38.51334,
+      "longitude": -121.4975
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SAN DIEGO",
+    "iataCode": "SAN",
+    "geoCode": {
+      "latitude": 32.73223,
+      "longitude": -117.1975
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SAN ANTONIO",
+    "iataCode": "SAT",
+    "geoCode": {
+      "latitude": 29.53389,
+      "longitude": -98.47
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "TX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SANTA BARBARA",
+    "iataCode": "SBA",
+    "geoCode": {
+      "latitude": 34.42612,
+      "longitude": -119.8414
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SAN LUIS OBISPO",
+    "iataCode": "SBP",
+    "geoCode": {
+      "latitude": 35.23695,
+      "longitude": -120.6419
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SEATTLE",
+    "iataCode": "SEA",
+    "geoCode": {
+      "latitude": 47.44889,
+      "longitude": -122.3094
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SEOUL",
+    "iataCode": "SEL",
+    "geoCode": {
+      "latitude": 37.56834,
+      "longitude": 126.9778
+    },
+    "address": {
+      "countryName": "KOREA REPUBLIC OF",
+      "countryCode": "KR",
+      "regionCode": "ASIA"
+    },
+    "timeZone": {
+      "offSet": "+09:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SAN FRANCISCO",
+    "iataCode": "SFO",
+    "geoCode": {
+      "latitude": 37.61889,
+      "longitude": -122.375
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SHANGHAI",
+    "iataCode": "SHA",
+    "geoCode": {
+      "latitude": 31.19778,
+      "longitude": 121.3364
+    },
+    "address": {
+      "countryName": "CHINA",
+      "countryCode": "CN",
+      "regionCode": "ASIA"
+    },
+    "timeZone": {
+      "offSet": "+08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SINGAPORE",
+    "iataCode": "SIN",
+    "geoCode": {
+      "latitude": 1.35028,
+      "longitude": 103.9945
+    },
+    "address": {
+      "countryName": "SINGAPORE",
+      "countryCode": "SG",
+      "regionCode": "SEASI"
+    },
+    "timeZone": {
+      "offSet": "+08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SITKA",
+    "iataCode": "SIT",
+    "geoCode": {
+      "latitude": 57.04723,
+      "longitude": -135.3617
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SAN JOSE",
+    "iataCode": "SJC",
+    "geoCode": {
+      "latitude": 37.36195,
+      "longitude": -121.9289
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SAN JOSE DEL CABO",
+    "iataCode": "SJD",
+    "geoCode": {
+      "latitude": 23.15195,
+      "longitude": -109.7211
+    },
+    "address": {
+      "countryName": "MEXICO",
+      "countryCode": "MX",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SALT LAKE CITY",
+    "iataCode": "SLC",
+    "geoCode": {
+      "latitude": 40.78834,
+      "longitude": -111.9778
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "UT",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SALEM",
+    "iataCode": "SLE",
+    "geoCode": {
+      "latitude": 44.90973,
+      "longitude": -123.0017
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SANTA ANA",
+    "iataCode": "SNA",
+    "geoCode": {
+      "latitude": 33.67556,
+      "longitude": -117.8683
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "ST LOUIS",
+    "iataCode": "STL",
+    "geoCode": {
+      "latitude": 38.74334,
+      "longitude": -90.36555
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "MO",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-05:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SANTA ROSA",
+    "iataCode": "STS",
+    "geoCode": {
+      "latitude": 38.50889,
+      "longitude": -122.8139
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "CA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "HAILEY/SUNVALLEY",
+    "iataCode": "SUN",
+    "geoCode": {
+      "latitude": 43.5,
+      "longitude": -114.3
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "SUNRIVER",
+    "iataCode": "SUO",
+    "geoCode": {
+      "latitude": 43.87584,
+      "longitude": -121.4558
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "OR",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "TACOMA",
+    "iataCode": "TIW",
+    "geoCode": {
+      "latitude": 47.26778,
+      "longitude": -122.5778
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "TAMPA",
+    "iataCode": "TPA",
+    "geoCode": {
+      "latitude": 27.97556,
+      "longitude": -82.53333
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "FL",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "TAIPEI",
+    "iataCode": "TPE",
+    "geoCode": {
+      "latitude": 25.07778,
+      "longitude": 121.2328
+    },
+    "address": {
+      "countryName": "TAIWAN",
+      "countryCode": "TW",
+      "regionCode": "ASIA"
+    },
+    "timeZone": {
+      "offSet": "+08:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "TUCSON",
+    "iataCode": "TUS",
+    "geoCode": {
+      "latitude": 32.11612,
+      "longitude": -110.9411
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "AZ",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "TOKYO",
+    "iataCode": "TYO",
+    "geoCode": {
+      "latitude": 35.68945,
+      "longitude": 139.6917
+    },
+    "address": {
+      "countryName": "JAPAN",
+      "countryCode": "JP",
+      "regionCode": "ASIA"
+    },
+    "timeZone": {
+      "offSet": "+09:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "BALTIMORE",
+    "iataCode": "WAS",
+    "geoCode": {
+      "latitude": 38.895,
+      "longitude": -77.03638
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "DC",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "WASHINGTON",
+    "iataCode": "WAS",
+    "geoCode": {
+      "latitude": 38.895,
+      "longitude": -77.03638
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "DC",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "EDMONTON",
+    "iataCode": "YEA",
+    "geoCode": {
+      "latitude": 53.57,
+      "longitude": -113.5
+    },
+    "address": {
+      "countryName": "CANADA",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "YAKIMA",
+    "iataCode": "YKM",
+    "geoCode": {
+      "latitude": 46.57,
+      "longitude": -120.5
+    },
+    "address": {
+      "countryName": "UNITED STATES OF AMERICA",
+      "countryCode": "US",
+      "stateCode": "WA",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "KELOWNA",
+    "iataCode": "YLW",
+    "geoCode": {
+      "latitude": 49.95612,
+      "longitude": -119.3778
+    },
+    "address": {
+      "countryName": "CANADA",
+      "countryCode": "CA",
+      "stateCode": "BC",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "TORONTO",
+    "iataCode": "YTO",
+    "geoCode": {
+      "latitude": 43.7,
+      "longitude": -79.41638
+    },
+    "address": {
+      "countryName": "CANADA",
+      "countryCode": "CA",
+      "stateCode": "ON",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-04:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "VANCOUVER",
+    "iataCode": "YVR",
+    "geoCode": {
+      "latitude": 49.195,
+      "longitude": -123.1792
+    },
+    "address": {
+      "countryName": "CANADA",
+      "countryCode": "CA",
+      "stateCode": "BC",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "CALGARY",
+    "iataCode": "YYC",
+    "geoCode": {
+      "latitude": 51.12945,
+      "longitude": -114.0131
+    },
+    "address": {
+      "countryName": "CANADA",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-06:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  },
+  {
+    "type": "location",
+    "subtype": "city",
+    "name": "VICTORIA",
+    "iataCode": "YYJ",
+    "geoCode": {
+      "latitude": 48.64695,
+      "longitude": -123.4258
+    },
+    "address": {
+      "countryName": "CANADA",
+      "countryCode": "CA",
+      "stateCode": "BC",
+      "regionCode": "NAMER"
+    },
+    "timeZone": {
+      "offSet": "-07:00",
+      "referenceLocalDateTime": "2025-07-20T10:18:39"
+    }
+  }
+]
