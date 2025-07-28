@@ -1,0 +1,6 @@
+amadeus
+gradio
+gradio-folium
+folium
+FlightRadarAPI
+pandas
