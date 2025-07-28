@@ -23,7 +23,7 @@ Flight Searcher is a Python application for searching, visualizing, and exportin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/flight-searcher.git
+   git clone https://github.com/mzwsInJjq/flight-searcher.git
    cd flight-searcher
    ```
 2. Install dependencies:
