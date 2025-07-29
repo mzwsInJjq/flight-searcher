@@ -4,3 +4,4 @@ gradio-folium
 folium
 FlightRadarAPI
 pandas
+beautifulsoup4
